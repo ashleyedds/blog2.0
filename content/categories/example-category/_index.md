@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: Leadership
+description: TBD
 image:
 
 # Badge style
