@@ -96,6 +96,3 @@ I want to pull myself out of those moments and check in with where I am and what
 Thanks for reading and letting me share a little bit of my journey. I’m excited about what this project might become, and I hope that in a year, I can look back at this blog and see how far I’ve come. I hope you’ll come back and see what I’ve been up to.
 
 Happy New Year! 🎉
-
-Love,
-Ashley
