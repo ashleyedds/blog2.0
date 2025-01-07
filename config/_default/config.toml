@@ -16,3 +16,13 @@ disqusShortname = "hugo-theme-stack"
 
 [pagination]
 pagerSize = 5
+
+[menu]
+[[menu.main]]
+    name = "Newsletter"
+    url = "https://ashleyedds-figuringitout.kit.com/48e2083d4e"
+    weight = 10
+    identifier = "newsletter"
+    [menu.main.params]
+        icon = "mail"
+        newTab = true

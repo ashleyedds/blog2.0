@@ -23,17 +23,17 @@ And yes, I’ll be using generative AI to help me shape some of these words, bec
 
 ---
 
-# So Anyway, Happy New Year! 🎉
+## So Anyway, Happy New Year! 🎉
 
 This year, I’m not doing resolutions. There’s plenty of online discourse about how resolutions never stick, so I won’t dwell on that. But I will say that I’ve never been able to see a resolution through. So, I’ve decided to try a different approach.
 
-This shift comes from two key inspirations: Atomic Habits by James Clear and my coaching sessions through Torch.
+This shift comes from two key inspirations: _Atomic Habits_ by James Clear and my coaching sessions through Torch.
 
-## The Influence of Atomic Habits
+### The Influence of _Atomic Habits_
 
 _[Atomic Habits](https://jamesclear.com/atomic-habits)_ was (admittedly) a recommendation from my coach—thanks, Tanner! A few points made in the opening chapters solidified my new approach: I need to make the changes I desire a part of my identity. According to Clear, “true behavior change is identity change” because our behaviors ultimately reflect our identity. If we behave in a way that conflicts with who we are, those behaviors won’t stick.
 
-## Themes vs. Goals
+### Themes vs. Goals
 
 In my work with Tanner, we’re focusing on themes to create habits that foster change and growth rather than rigid goals. Goals are great for identifying where you want to end up, but they often overlook the processes that get you there. As Clear notes, achieving a goal “only changes your life for a moment.” Without changing the underlying systems or identity that led to setting the goal in the first place, the change won’t last.
 
@@ -41,7 +41,7 @@ By using themes, I’m supporting the identity I’ve defined for myself while b
 
 ---
 
-# New Year, New Me 💁🏻‍♀️
+## New Year, New Me 💁🏻‍♀️
 
 Here are the aspects of my identity I want to foster and focus on this year:
 - I am healthy.
@@ -59,14 +59,14 @@ I want to be more vulnerable and brave, allowing myself to fail. Growth and lear
 
 ---
 
-# Theme-ing in the New Year 🎊
+## Theme-ing in the New Year 🎊
 
 My 2025 themes are:
 - Nourishment
 - Routine
 - Mindfulness
 
-## Nourishment
+### Nourishment
 
 Nourishment is about more than feeding my body healthy foods. It’s about:
 - Completing the skincare routine I’ve been planning for months.
@@ -78,14 +78,14 @@ Nourishment is about more than feeding my body healthy foods. It’s about:
 
 These are all things that support a healthy mind and body, help me find work-life balance, and keep me present in my day-to-day life.
 
-## Routine
+### Routine
 
 Routines will help support my journey of nourishment. I want to:
 - Go to bed at the same time every night with a consistent pre-bed routine (hello, skincare!).
 - Do a “closing shift” each night to ensure the living space is tidy for the next day.
 - Stick to personal growth habits like journaling, setting daily goals, and dedicating time each week to learning about leadership or technology topics.
 
-## Mindfulness
+### Mindfulness
 
 Man, I am always distracted—thinking about the next meeting, answering Slack messages in that meeting, or scrolling Instagram at dinner.
 
@@ -96,3 +96,12 @@ I want to pull myself out of those moments and check in with where I am and what
 Thanks for reading and letting me share a little bit of my journey. I’m excited about what this project might become, and I hope that in a year, I can look back at this blog and see how far I’ve come. I hope you’ll come back and see what I’ve been up to.
 
 Happy New Year! 🎉
+
+---
+
+**Enjoyed this post?**
+Sign up for my newsletter to get updates on new posts, tips, and behind-the-scenes insights!
+
+<header class="article-category">
+    <a href="https://ashleyedds-figuringitout.kit.com/48e2083d4e" style="background-color:#8ea885;">Subscribe Now</a>
+</header>
