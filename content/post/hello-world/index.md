@@ -31,7 +31,7 @@ This shift comes from two key inspirations: _Atomic Habits_ by James Clear and m
 
 ### The Influence of _Atomic Habits_
 
-_[Atomic Habits](https://jamesclear.com/atomic-habits)_ was (admittedly) a recommendation from my coach—thanks, Tanner! A few points made in the opening chapters solidified my new approach: I need to make the changes I desire a part of my identity. According to Clear, “true behavior change is identity change” because our behaviors ultimately reflect our identity. If we behave in a way that conflicts with who we are, those behaviors won’t stick.
+_[Atomic Habits](https://jamesclear.com/atomic-habits)_ was (admittedly) a recommendation from my coach—thanks, [Tanner](https://worth.am)! A few points made in the opening chapters solidified my new approach: I need to make the changes I desire a part of my identity. According to Clear, “true behavior change is identity change” because our behaviors ultimately reflect our identity. If we behave in a way that conflicts with who we are, those behaviors won’t stick.
 
 ### Themes vs. Goals
 
