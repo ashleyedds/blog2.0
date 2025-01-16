@@ -20,7 +20,7 @@ pagerSize = 5
 [menu]
 [[menu.main]]
     name = "Newsletter"
-    url = "https://ashleyedds-figuringitout.kit.com/48e2083d4e"
+    url = "https://ashleyedds-figuringitout.kit.com/signup"
     weight = 10
     identifier = "newsletter"
     [menu.main.params]

@@ -6,7 +6,7 @@ favicon = "/favicon.ico"
 
 [footer]
 since = 2025
-customText = '<a style="font-size: 1.5rem; font-weight: 700; color: #ffff;" href="https://ashleyedds-figuringitout.kit.com/48e2083d4e" target="_blank">Subscribe to my Newsletter</a>'
+customText = '<a style="font-size: 1.5rem; font-weight: 700; color: #ffff;" href="https://ashleyedds-figuringitout.kit.com/signup" target="_blank">Subscribe to my Newsletter</a>'
 
 [dateFormat]
 published = "Jan 02, 2006"

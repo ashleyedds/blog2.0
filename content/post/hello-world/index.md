@@ -13,7 +13,7 @@ tags:
     - Atomic Habits
 ---
 
-# Welcome to my little space on the internet.
+# Welcome to my little space on the internet
 
 Hi there, I’m Ashley.
 
@@ -44,6 +44,7 @@ By using themes, I’m supporting the identity I’ve defined for myself while b
 ## New Year, New Me 💁🏻‍♀️
 
 Here are the aspects of my identity I want to foster and focus on this year:
+
 - I am healthy.
 - I am present.
 - I am coping in a healthy way.
@@ -62,6 +63,7 @@ I want to be more vulnerable and brave, allowing myself to fail. Growth and lear
 ## Theme-ing in the New Year 🎊
 
 My 2025 themes are:
+
 - Nourishment
 - Routine
 - Mindfulness
@@ -69,6 +71,7 @@ My 2025 themes are:
 ### Nourishment
 
 Nourishment is about more than feeding my body healthy foods. It’s about:
+
 - Completing the skincare routine I’ve been planning for months.
 - Taking a walk to get fresh air in the middle of the day.
 - Reading a book that makes me think—or helps me escape.
@@ -81,6 +84,7 @@ These are all things that support a healthy mind and body, help me find work-lif
 ### Routine
 
 Routines will help support my journey of nourishment. I want to:
+
 - Go to bed at the same time every night with a consistent pre-bed routine (hello, skincare!).
 - Do a “closing shift” each night to ensure the living space is tidy for the next day.
 - Stick to personal growth habits like journaling, setting daily goals, and dedicating time each week to learning about leadership or technology topics.
@@ -103,5 +107,5 @@ Happy New Year! 🎉
 Sign up for my newsletter to get updates on new posts, tips, and behind-the-scenes insights!
 
 <header class="article-category">
-    <a href="https://ashleyedds-figuringitout.kit.com/48e2083d4e" style="background-color:#8ea885;">Subscribe Now</a>
+    <a href="https://ashleyedds-figuringitout.kit.com/signup" style="background-color:#8ea885;">Subscribe Now</a>
 </header>
