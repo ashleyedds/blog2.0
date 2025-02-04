@@ -13,6 +13,12 @@ tags:
     - Engineering Management   
 ---
 
+## Update 2/3/25
+
+Since publishing this article, it has been brought to my attention that the "missing cheese" metaphor my colleague used, and I assumed an off-the-cuff-original, is actually likely referencing [_Who Moved My Cheese_](https://www.amazon.com/dp/0091876044?ref=cm_sw_r_ffobk_cso_cp_apin_dp_X47H5QMN1BPD16XBKCC9&ref_=cm_sw_r_ffobk_cso_cp_apin_dp_X47H5QMN1BPD16XBKCC9&social_share=cm_sw_r_ffobk_cso_cp_apin_dp_X47H5QMN1BPD16XBKCC9&starsLeft=1&skipTwisterOG=1&bestFormat=true&titleSource=avft-a&newOGT=1) by Dr. Spencer Johnston. I shall be adding this to my TBR.
+
+---
+
 Today, I received an incredible compliment:  
 
 > *"I'm really looking for your steady presence in this to really drive 'Is this actually broken? Or is your cheese just missing?'"*  
