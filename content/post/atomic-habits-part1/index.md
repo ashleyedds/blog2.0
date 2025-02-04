@@ -1,6 +1,6 @@
 ---
 title: "Atomic Habits: The Fundamentals"
-description: "Reflections on the introduction of James Clear's *Atomic Habits*: why tiny changes matter and how identity impacts behavior change."
+description: "Reflections on the introduction of James Clear's Atomic Habits: why tiny changes matter and how identity impacts behavior change."
 license.enabled: false
 slug: atomic-habits-part1
 date: 2025-01-21
