@@ -9,7 +9,7 @@ categories:
     - Personal
 tags:
     - Themes
-    - Growth
+    - Growth Mindset
     - Atomic Habits
 ---
 

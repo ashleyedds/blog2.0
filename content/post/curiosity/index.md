@@ -1,6 +1,6 @@
 ---
-title: "Mindful Curiosity: Embracing Questions Without Fear"
-description: "Exploring the power of curiosity in leadership—how shifting our mindset from "pushing back" to seeking understanding can foster growth and confidence."  
+title: Mindful Curiosity
+description: Exploring the power of curiosity in leadership—how shifting our mindset from "pushing back" to seeking understanding can foster growth and confidence.
 license.enabled: false  
 slug: mindful-curiosity  
 date: 2025-03-04  

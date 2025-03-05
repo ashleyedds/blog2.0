@@ -9,7 +9,7 @@ categories:
     - Project Management  
 tags:  
     - Change Management
-    - Growth
+    - Growth Mindset
     - Engineering Management   
 ---
 

@@ -8,7 +8,7 @@ image: cover.jpeg
 categories:
     - Technical Growth
 tags:
-    - Growth
+    - Growth Mindset
     - Technology
     - Lessons
 ---
