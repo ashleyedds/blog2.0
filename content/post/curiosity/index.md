@@ -31,11 +31,11 @@ This internalized fear of questioning leadership likely stems from deep-seated p
 
 > Am I feeling anxious because I’m mislabeling my curiosity as pushback?  
 
-### Strengthening My Curiosity Muscle  
+## Strengthening My Curiosity Muscle  
 
 Since this realization, I’ve also noticed other ways my curiosity (or lack thereof) manifests. Sometimes, I accept information or suggestions at face value without deeper exploration. If I want to continue growing as a technical leader, I need to challenge myself to dig deeper and ensure I have a well-rounded understanding before making decisions.  
 
-### My Commitment to Mindful Curiosity  
+## My Commitment to Mindful Curiosity  
 
 To foster this growth, I’m setting the following personal challenges:  
 
