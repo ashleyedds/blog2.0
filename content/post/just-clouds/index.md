@@ -6,15 +6,11 @@ slug: just-clouds
 date: 2025-03-12  
 image: cover.jpg  
 categories:  
-    - Personal Growth  
-    - Mental Health  
+    - Personal Growth   
     - Reflections  
 tags:  
-    - Resilience  
-    - Hard Times  
-    - Mental Health  
-    - Self-Reflection  
-    - Emotional Well-being  
+    - Resilience   
+    - Self-Reflection   
 ---
 
 The past few weeks have been difficult. Not that everything is going terribly wrong, but things certainly aren't going right either. And it’s not just work. Life, in general, has felt heavier than usual.  
