@@ -1,5 +1,5 @@
 ---
-title: The Power of Immediate Action: How I Tamed My Endless To-Do List
+title: "The Power of Immediate Action: How I Tamed My Endless To-Do List"
 description: Discover how a simple shift in behavior helped me gain control over my workload, build trust with my team, and get more done—without burning out.
 license.enabled: false
 slug: immediate-action
