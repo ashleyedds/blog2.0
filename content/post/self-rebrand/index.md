@@ -1,6 +1,6 @@
 ---
-title: Rethinking Who You Are: A Personal Story of Rebranding Confidence
-description: A personal reflection on overcoming long-held self-perceptions about being shy and soft-spoken, and how embracing growth in public speaking led to a quiet transformation.
+title: "Rethinking Who You Are: A Personal Story of Rebranding Confidence"
+description: "A personal reflection on overcoming long-held self-perceptions about being shy and soft-spoken, and how embracing growth in public speaking led to a quiet transformation."
 license.enabled: false
 slug: self-rebrand
 date: 2025-05-28
