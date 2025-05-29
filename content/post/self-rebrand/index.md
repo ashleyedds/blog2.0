@@ -1,5 +1,5 @@
 ---
-title: "Rethinking Who You Are: A Personal Story of Rebranding Confidence"
+title: "My Self-Rebrand: Owning the Room in My Own Way"
 description: "A personal reflection on overcoming long-held self-perceptions about being shy and soft-spoken, and how embracing growth in public speaking led to a quiet transformation."
 license.enabled: false
 slug: self-rebrand
