@@ -29,7 +29,7 @@ When I've consciously chosen discomfort over avoidance, several encounters stand
 
 ## The Learning Lives in Both Outcomes
 
-The other two meaningful encounters didn't blossom into lasting friendships, but they taught me invaluable lessons about myself and others. In both cases, my initial discomfort was partially warranted—there were genuine misalignments in values or communication styles that made deep connection difficult. But engaging authentically allowed me to understand *why* I felt triggered, what those reactions revealed about my own growth edges, and how to trust my judgment more effectively.
+There are other meaningful encounters,however, that didn't blossom into lasting friendships, but they taught me invaluable lessons about myself and others. In both cases, my initial discomfort was partially warranted—there were genuine misalignments in values or communication styles that made deep connection difficult. But engaging authentically allowed me to understand *why* I felt triggered, what those reactions revealed about my own growth edges, and how to trust my judgment more effectively.
 
 The beauty lies in this: whether the relationship flourishes or fades, you've gained crucial data about yourself. You've practiced assuming positive intent, stretched your emotional intelligence, and hopefully offered something meaningful to the other person in return. Most importantly, you've learned to distinguish between your nervous system responding to genuine incompatibility versus simply responding to difference.
 
