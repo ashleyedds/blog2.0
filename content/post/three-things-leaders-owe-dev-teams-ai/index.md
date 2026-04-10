@@ -46,13 +46,13 @@ This one requires a brief detour through the early days of on-demand apps, but I
 
 Do you remember the early days of Uber and DoorDash? Ride prices so low they felt illegal. Free delivery. Subsidized everything. I remember getting meals delivered for less than it cost me to drive to pick them up. It was *great.* It was also not real. Because what paid for all of it was venture capital, burning cash to buy market share, with the eventual plan of raising prices once we were all dependent.
 
-*The jersey from Jersey Mike's I ordered delivered to my office last month cost me $13 in fees. It was two miles away.*
+*The sub from Jersey Mike's I ordered delivered to my office last month cost me $13 in fees. It was two miles away.*
 
 I'm not saying AI is a scam. I'm saying the economics of the current moment are not what they appear to be, and that has real implications for how we build.
 
 The financial picture is startling: major AI providers are losing money at significant scale, with OpenAI reportedly spending $2.25 for every dollar it earns.  Internal projections suggest OpenAI won't turn a profit until 2030, while Anthropic expects losses to continue through much of the same period — spending on AI training alone projected to surpass $30 billion by 2029.  A recent analysis from Man Group put it starkly: the financial architecture supporting AI has been built for a demand curve that may not arrive, and whose economics may deteriorate if it does.
 
-None of this means the technology isn't real or valuable. It absolutely is. But it does mean that the pricing we're operating under today — for inference, for API calls, for the agent orchestration workflows we're starting to build dependencies on — is almost certainly not the price we'll be paying in three years.
+None of this means the technology isn't real or valuable. It absolutely is. But it does mean that the pricing we're operating under today — for inference, for API calls, for the agent orchestration workflows we're starting to build dependencies on — is almost certainly not the price we'll be paying down the road.
 
 So here's what I think we owe our teams: clear-eyed strategy. Not reckless dependency-building, but *thoughtful* adoption. What workflows are we comfortable building deep dependencies into? Where do we want to preserve optionality? What happens to our velocity if a major model provider reprices or pivots?
 
